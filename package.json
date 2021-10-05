@@ -1,0 +1,11 @@
+{
+  "name": "codewars-solutions",
+  "description": "",
+  "scripts": {
+    "task": "nodemon task.js"
+  },
+  "author": "mykolao",
+  "dependencies": {
+    "nodemon": "^2.0.13"
+  }
+}

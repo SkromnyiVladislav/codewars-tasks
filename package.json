@@ -2,7 +2,7 @@
   "name": "codewars-solutions",
   "description": "",
   "scripts": {
-    "task": "nodemon task.js"
+    "01": "nodemon 01-categorize-new-member.js"
   },
   "author": "mykolao",
   "dependencies": {

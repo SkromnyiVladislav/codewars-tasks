@@ -1,3 +1,3 @@
 # Codewars Task Solutions
 
-- - [ ] Categorize New Member
+- [X] 01 Categorize New Member

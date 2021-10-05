@@ -2,7 +2,8 @@
   "name": "codewars-solutions",
   "description": "",
   "scripts": {
-    "01": "nodemon 01-categorize-new-member.js"
+    "01": "nodemon 01-categorize-new-member.js",
+    "02": "nodemon 02-highest-and-lowest.js"
   },
   "author": "mykolao",
   "dependencies": {

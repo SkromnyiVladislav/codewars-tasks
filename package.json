@@ -8,7 +8,8 @@
     "04": "nodemon 04-remove-excl-mark.js",
     "05": "nodemon 05-create-phone-number.js",
     "06": "nodemon 06-find-the-missing-letter.js",
-    "07": "nodemon 07-find-the-parity-outlier.js"
+    "07": "nodemon 07-find-the-parity-outlier.js",
+    "08": "nodemon 08-your-order-please.js"
   },
   "author": "mykolao",
   "dependencies": {

@@ -5,3 +5,4 @@
 - [X] 03 IQ Test
 - [X] 04 Remove Excl Mark
 - [X] 05 Create Phone Number
+- [ ] 06 Find the missing letter

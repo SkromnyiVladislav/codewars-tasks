@@ -6,7 +6,8 @@
     "02": "nodemon 02-highest-and-lowest.js",
     "03": "nodemon 03-iq-test.js",
     "04": "nodemon 04-remove-excl-mark.js",
-    "05": "nodemon 05-create-phone-number.js"
+    "05": "nodemon 05-create-phone-number.js",
+    "06": "nodemon 06-find-the-missing-letter.js"
   },
   "author": "mykolao",
   "dependencies": {

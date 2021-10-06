@@ -8,3 +8,4 @@
 - [X] 06 Find the missing letter
 - [X] 07 Find The Parity Outlier
 - [X] 08 Your order, please
+- [X] 09 Hex To RGB

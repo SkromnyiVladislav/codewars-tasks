@@ -13,7 +13,8 @@
     "09": "nodemon 09-hex-to-rgb.js",
     "10": "nodemon 10-moving-zeros-to-the-end.js",
     "11": "nodemon 11-human-readable-time.js",
-    "12": "nodemon 12-valid-parentheses.js"
+    "12": "nodemon 12-valid-parentheses.js",
+    "13": "nodemon 13-calculating-with-functions.js"
   },
   "author": "mykolao",
   "dependencies": {

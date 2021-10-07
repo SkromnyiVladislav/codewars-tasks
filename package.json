@@ -11,7 +11,8 @@
     "07": "nodemon 07-find-the-parity-outlier.js",
     "08": "nodemon 08-your-order-please.js",
     "09": "nodemon 09-hex-to-rgb.js",
-    "10": "nodemon 10-moving-zeros-to-the-end.js"
+    "10": "nodemon 10-moving-zeros-to-the-end.js",
+    "11": "nodemon code 11-human-readable-time.js"
   },
   "author": "mykolao",
   "dependencies": {

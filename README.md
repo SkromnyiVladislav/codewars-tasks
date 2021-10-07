@@ -9,3 +9,4 @@
 - [X] 07 Find The Parity Outlier
 - [X] 08 Your order, please
 - [X] 09 Hex To RGB
+- [X] 10 Moving Zeros To The End

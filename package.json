@@ -10,7 +10,8 @@
     "06": "nodemon 06-find-the-missing-letter.js",
     "07": "nodemon 07-find-the-parity-outlier.js",
     "08": "nodemon 08-your-order-please.js",
-    "09": "nodemon 09-hex-to-rgb.js"
+    "09": "nodemon 09-hex-to-rgb.js",
+    "10": "nodemon 10-moving-zeros-to-the-end.js"
   },
   "author": "mykolao",
   "dependencies": {

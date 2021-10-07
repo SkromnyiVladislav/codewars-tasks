@@ -11,3 +11,4 @@
 - [X] 09 Hex To RGB
 - [X] 10 Moving Zeros To The End
 - [X] 11 Human Readable Time
+- [X] 12 Valid Parentheses

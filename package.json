@@ -18,7 +18,7 @@
     "14": "nodemon 14-human-readable-duration-format.js",
     "15": "nodemon 15-sudoku-solution-validator.js",
     "16": "nodemon 16-sum-strings-as-numbers.js",
-    "17": "nodemon 17-most-frequently-words-in-a-text.js"
+    "17": "nodemon 17-the-hashtag-generator.js"
   },
   "author": "mykolao",
   "dependencies": {

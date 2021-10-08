@@ -15,7 +15,8 @@
     "11": "nodemon 11-human-readable-time.js",
     "12": "nodemon 12-valid-parentheses.js",
     "13": "nodemon 13-calculating-with-functions.js",
-    "14": "nodemon 14-human-readable-duration-format.js"
+    "14": "nodemon 14-human-readable-duration-format.js",
+    "15": "nodemon 15-sudoku-solution-validator.js"
   },
   "author": "mykolao",
   "dependencies": {

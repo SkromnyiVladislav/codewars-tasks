@@ -17,3 +17,4 @@
 - [X] 15 Sudoku Solution Validator
 - [X] 16 Sum Strings as Numbers
 - [X] 17 The Hashtag Generator
+- [X] 18 Did I Finish my Sudoku?

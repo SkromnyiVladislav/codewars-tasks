@@ -21,7 +21,8 @@
     "17": "nodemon 17-the-hashtag-generator.js",
     "18": "nodemon 18-did-i-finish-my-sudoku.js",
     "19": "nodemon 19-square-matrix-multiplication.js",
-    "20": "nodemon 20-rgb-to-hex-conversion.js"
+    "20": "nodemon 20-rgb-to-hex-conversion.js",
+    "21": "nodemon 21-pete-the-baker.js"
   },
   "author": "mykolao",
   "dependencies": {

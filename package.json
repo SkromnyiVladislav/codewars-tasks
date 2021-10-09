@@ -19,7 +19,8 @@
     "15": "nodemon 15-sudoku-solution-validator.js",
     "16": "nodemon 16-sum-strings-as-numbers.js",
     "17": "nodemon 17-the-hashtag-generator.js",
-    "18": "nodemon 18-did-i-finish-my-sudoku.js"
+    "18": "nodemon 18-did-i-finish-my-sudoku.js",
+    "19": "nodemon 19-square-matrix-multiplication.js"
   },
   "author": "mykolao",
   "dependencies": {

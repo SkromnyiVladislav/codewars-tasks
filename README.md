@@ -18,3 +18,4 @@
 - [X] 16 Sum Strings as Numbers
 - [X] 17 The Hashtag Generator
 - [X] 18 Did I Finish my Sudoku?
+- [X] 19 Square Matrix Multiplication

@@ -22,7 +22,8 @@
     "18": "nodemon 18-did-i-finish-my-sudoku.js",
     "19": "nodemon 19-square-matrix-multiplication.js",
     "20": "nodemon 20-rgb-to-hex-conversion.js",
-    "21": "nodemon 21-pete-the-baker.js"
+    "21": "nodemon 21-pete-the-baker.js",
+    "22": "nodemon 22-simple-assembler-interpreter.js"
   },
   "author": "mykolao",
   "dependencies": {

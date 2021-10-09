@@ -21,3 +21,4 @@
 - [X] 19 Square Matrix Multiplication
 - [X] 20 RGB To Hex Conversion 🎉
 - [X] 21 Pete, the baker
+- [X] 22 Simple assembler interpreter
